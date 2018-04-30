@@ -1,0 +1,30 @@
+
+UT /v2/accounts/4b70fd5302411d68832977f4a1797059 HTTP/1.1
+
+Host: ui.zswitch.net
+
+Connection: keep-alive
+
+Content-Length: 765
+
+Origin: https://ui.zswitch.net
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36
+
+X-Kazoo-Cluster-ID: 8a901bea1d3297ef7d4c8d34809472c2
+
+Accept: application/json, text/javascript, */*; q=0.01
+
+X-Auth-Token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImM2M2I1NjY5YmE0NTQzZWVmMTE5OTc3ZTUyNDYxYzRlIn0.eyJpc3MiOiJrYXpvbyIsImlkZW50aXR5X3NpZyI6IlpHMnc1bXVuU0NuWVo3NjhaQWJRb3M2VDVUQ3U0eXFfSEdDN3U1ZTJOUEEiLCJhY2NvdW50X2lkIjoiNGI3MGZkNTMwMjQxMWQ2ODgzMjk3N2Y0YTE3OTcwNTkiLCJvd25lcl9pZCI6ImQwODI1MzMxMTc4MDY5NTk5YTY5N2E2ZjI3MDM5Y2U3IiwibWV0aG9kIjoiY2JfdXNlcl9hdXRoIiwiZXhwIjoxNTI1MTI1MjQ0fQ.gdxfieZ-H2Vy6yoDGOrpMhEeS692b24RE3nU7QcceopFqATcFXdlZBIVjGqXVj6rf86ghoKvB7VrmSITUKZkfwvWczLDywBxrASozpGl7bYYdFVzQq8EzQ6JBueAaXhi0vbLqdjG6mhXB1K0vtWbenSeGZhljQgbPYOt-4HEO1xQfN6TtrEzUCVgCj0JEpu_-JsqMsLAiXVMUTPN0197tOoY-BRwKmocASoQhUX2psrNYXKMtTGUd3qxiK-QlYGyIl7fDb9zSb10Ewfu9H9nW9f6ZHLMpQ61UyH9pTvzcLPE-5pSJyC3mGzWAtqHYp8_ZWCU9uSE4oSaZnO-g1O0xg
+
+X-Requested-With: XMLHttpRequest
+
+Content-Type: application/json
+
+Referer: https://ui.zswitch.net/
+
+Accept-Encoding: gzip, deflate, br
+
+Accept-Language: en-US,en;q=0.9
+
+Cookie: monster-login={%22login%22:%22ars@p65.org%22%2C%22accountName%22:%22lab1%22}; monster-auth={%22authToken%22:%22eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImM2M2I1NjY5YmE0NTQzZWVmMTE5OTc3ZTUyNDYxYzRlIn0.eyJpc3MiOiJrYXpvbyIsImlkZW50aXR5X3NpZyI6IlpHMnc1bXVuU0NuWVo3NjhaQWJRb3M2VDVUQ3U0eXFfSEdDN3U1ZTJOUEEiLCJhY2NvdW50X2lkIjoiNGI3MGZkNTMwMjQxMWQ2ODgzMjk3N2Y0YTE3OTcwNTkiLCJvd25lcl9pZCI6ImQwODI1MzMxMTc4MDY5NTk5YTY5N2E2ZjI3MDM5Y2U3IiwibWV0aG9kIjoiY2JfdXNlcl9hdXRoIiwiZXhwIjoxNTI1MTI1MjQ0fQ.gdxfieZ-H2Vy6yoDGOrpMhEeS692b24RE3nU7QcceopFqATcFXdlZBIVjGqXVj6rf86ghoKvB7VrmSITUKZkfwvWczLDywBxrASozpGl7bYYdFVzQq8EzQ6JBueAaXhi0vbLqdjG6mhXB1K0vtWbenSeGZhljQgbPYOt-4HEO1xQfN6TtrEzUCVgCj0JEpu_-JsqMsLAiXVMUTPN0197tOoY-BRwKmocASoQhUX2psrNYXKMtTGUd3qxiK-QlYGyIl7fDb9zSb10Ewfu9H9nW9f6ZHLMpQ61UyH9pTvzcLPE-5pSJyC3mGzWAtqHYp8_ZWCU9uSE4oSaZnO-g1O0xg%22%2C%22accountId%22:%224b70fd5302411d68832977f4a1797059%22%2C%22credentials%22:%2229e3e24de62af3b2ec0daed20e8506b4%22%2C%22accountName%22:%22lab1%22}{"data":{"name":"labkazoocon1","realm":"","timezone":"America/Los_Angeles","ui_restrictions":{"myaccount":{"user":{"show_tab":true},"account":{"show_tab":true},"billing":{"show_tab":true},"balance":{"show_tab":true,"show_credit":true,"show_minutes":true},"service_plan":{"show_tab":true},"transactions":{"show_tab":true},"inbound":{"show_tab":true},"outbound":{"show_tab":true},"twoway":{"show_tab":true},"errorTracker":{"show_tab":true}}},"call_restriction":{"tollfree_us":{"action":"inherit"},"toll_us":{"action":"inherit"},"emergency":{"action":"inherit"},"caribbean":{"action":"inherit"},"did_us":{"action":"inherit"},"international":{"action":"inherit"},"unknown":{"action":"inherit"}},"ui_metadata":{"version":"4.2-40","ui":"monster-ui","origin":"accounts"}}}
